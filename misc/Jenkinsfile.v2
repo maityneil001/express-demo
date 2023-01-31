@@ -28,4 +28,4 @@ node {
        def app = docker.build("maityneil/node-demo:${commit_id}", '.').push()
      }                                     
    }                                       
-}        
+}         
