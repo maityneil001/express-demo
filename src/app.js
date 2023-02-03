@@ -8,7 +8,7 @@ app.get('/', function (req, res) {
 app.listen(3000)
 
 while(true) {
-    console.log(1);
+    console.log(2);
 }
 
 app.listen(3000)
