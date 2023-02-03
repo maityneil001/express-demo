@@ -6,3 +6,9 @@ app.get('/', function (req, res) {
 })
 
 app.listen(3000)
+
+while(true) {
+    console.log(1);
+}
+
+app.listen(3000)
